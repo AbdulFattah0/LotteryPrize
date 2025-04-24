@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Program Name: AM_ProjectMethods.java
  * Purpose: Methods used in the Project
- * Coder: Abdulfatiah Marouf 1144451
+ * Coder: Abdulfatiah Marouf 
  * Date: Nov 23, 2023
  */
 

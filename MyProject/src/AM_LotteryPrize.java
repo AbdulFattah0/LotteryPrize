@@ -3,7 +3,7 @@
  * Purpose: This Program will analyze the ticket numbers data contained in the selected data file
  * to determine which ticket holders have won a prize,
  * how many ticket holders will have to share a prize and how much money they’ll each receive.
- * Coder: Abdulfatiah Marouf 1144451
+ * Coder: Abdulfatiah Marouf 
  * Date: Nov 30, 2023
  */
 import java.io.*;
